@@ -1,0 +1,30 @@
+[
+    {
+        "id": 133723,
+        "name": "gt0345",
+        "displayName": "儀玄-墨形影蹤-R18 by Clearday v1.01（鸟）",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0345",
+        "image": "Covers/gt0345.png",
+        "pmx": "鸟.pmx",
+        "base": "https://carlutic.github.io/goodthings51/"
+    },
+    {
+        "id": 133724,
+        "name": "gt0325",
+        "displayName": "Silver+Wolf+R18（Silver Wolf R18 VR 1.0）",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0325",
+        "image": "Covers/gt0325.png",
+        "pmx": "Silver Wolf R18 VR 1.0.pmx",
+        "base": "https://carlutic.github.io/goodthings51/"
+    }
+]
